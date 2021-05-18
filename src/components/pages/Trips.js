@@ -25,7 +25,7 @@ function Trips() {
                                             return (
                                                 <div className="col-xl-3 col-md-4 col-sm-6 mt-4" key={i}>
                                                     <a href="javascript:void(0)" className="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                                                        <img className="service card-img" src={item.cardImage} alt="Card image"></img>
+                                                        <img className="service card-img" src={`${process.env.PUBLIC_URL}/${item.cardImage}`} alt="Card image"></img>
                                                         <div className="service-work-vertical card-img-overlay d-flex align-items-end">
                                                             <div className="service-work-content text-left text-light">
                                                                 <span className="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">{item.cardbtn}</span>
@@ -48,7 +48,7 @@ function Trips() {
                                             return (
                                                 <div className="col-xl-3 col-md-4 col-sm-6 mt-4" key={i}>
                                                     <a href="javascript:void(0)" className="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                                                        <img className="service card-img" src={item.cardImage} alt="Card image"></img>
+                                                        <img className="service card-img" src={`${process.env.PUBLIC_URL}/${item.cardImage}`} alt="Card image"></img>
                                                         <div className="service-work-vertical card-img-overlay d-flex align-items-end">
                                                             <div className="service-work-content text-left text-light">
                                                                 <span className="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">{item.cardbtn}</span>
@@ -69,7 +69,7 @@ function Trips() {
                                             return (
                                                 <div className="col-xl-3 col-md-4 col-sm-6 mt-4" key={i}>
                                                     <a href="javascript:void(0)" className="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                                                        <img className="service card-img" src={item.cardImage} alt="Card image"></img>
+                                                        <img className="service card-img" src={`${process.env.PUBLIC_URL}/${item.cardImage}`} alt="Card image"></img>
                                                         <div className="service-work-vertical card-img-overlay d-flex align-items-end">
                                                             <div className="service-work-content text-left text-light">
                                                                 <span className="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">{item.cardbtn}</span>
@@ -90,7 +90,7 @@ function Trips() {
                                             return (
                                                 <div className="col-xl-3 col-md-4 col-sm-6 mt-4" key={i}>
                                                     <a href="javascript:void(0)" className="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                                                        <img className="service card-img" src={item.cardImage} alt="Card image"></img>
+                                                        <img className="service card-img" src={`${process.env.PUBLIC_URL}/${item.cardImage}`} alt="Card image"></img>
                                                         <div className="service-work-vertical card-img-overlay d-flex align-items-end">
                                                             <div className="service-work-content text-left text-light">
                                                                 <span className="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">{item.cardbtn}</span>

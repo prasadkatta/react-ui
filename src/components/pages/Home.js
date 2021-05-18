@@ -15,7 +15,7 @@ function Home() {
                             Data.bannerList.map((item, i) => {
                                 return (
                                     <div key={i} className={i === 0 ? "carousel-item active" : "carousel-item" }>
-                                        <img src={item.bannerImage} className="d-block w-100" alt="..." />
+                                        <img src={`${process.env.PUBLIC_URL}/${item.bannerImage}`} className="d-block w-100" alt="..." />
                                         <div className="carousel-caption d-none d-md-block">
                                             <div className="py-5 row d-flex align-items-center">
                                                 <div className="banner-content col-lg-8 col-8 offset-2 m-lg-auto text-left py-5 pb-5">

@@ -1,168 +1,168 @@
 {
     "alllist": [
         {
-            "cardImage": "images/services-01.jpg",
+            "cardImage": "services-01.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "UI/UX design"
         },
         {
-            "cardImage": "images/services-02.jpg",
+            "cardImage": "services-02.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Social Media"
         },
         {
-            "cardImage": "images/services-03.jpg",
+            "cardImage": "services-03.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Marketing"
         },
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Graphic"
         },
         {
-            "cardImage": "images/services-05.jpg",
+            "cardImage": "services-05.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Digtal Marketing"
         },
         {
-            "cardImage": "images/services-06.jpg",
+            "cardImage": "services-06.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Market Research"
         },
         {
-            "cardImage": "images/services-07.jpg",
+            "cardImage": "services-07.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Business"
         },
         {
-            "cardImage": "images/services-08.jpg",
+            "cardImage": "services-08.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Branding"
         }
     ],
     "graphics":[
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Graphic"
         },
         {
-            "cardImage": "images/services-02.jpg",
+            "cardImage": "services-02.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Social Media"
         },
         {
-            "cardImage": "images/services-05.jpg",
+            "cardImage": "services-05.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Digtal Marketing"
         },
         {
-            "cardImage": "images/services-08.jpg",
+            "cardImage": "services-08.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Branding"
         },
         {
-            "cardImage": "images/services-01.jpg",
+            "cardImage": "services-01.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "After Effects"
         },
         {
-            "cardImage": "images/services-03.jpg",
+            "cardImage": "services-03.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Vector Graphics"
         },
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Photoshop"
         },
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Illustrator"
         }
     ],
     "uiUx":[
         {
-            "cardImage": "images/services-01.jpg",
+            "cardImage": "services-01.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "UI/UX design"
         },
         {
-            "cardImage": "images/services-02.jpg",
+            "cardImage": "services-02.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Social Media"
         },
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Graphic"
         },
         {
-            "cardImage": "images/services-05.jpg",
+            "cardImage": "services-05.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Digtal Marketing"
         },
         {
-            "cardImage": "images/services-08.jpg",
+            "cardImage": "services-08.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Branding"
         },
         {
-            "cardImage": "images/services-05.jpg",
+            "cardImage": "services-05.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Jquery"
         },
         {
-            "cardImage": "images/services-01.jpg",
+            "cardImage": "services-01.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Bootstrap"
         },
         {
-            "cardImage": "images/services-03.jpg",
+            "cardImage": "services-03.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "CSS"
         }
     ],
     "branding":[
         {
-            "cardImage": "images/services-08.jpg",
+            "cardImage": "services-08.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Branding"
         },
         {
-            "cardImage": "images/services-03.jpg",
+            "cardImage": "services-03.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Marketing"
         },
         {
-            "cardImage": "images/services-06.jpg",
+            "cardImage": "services-06.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Market Research"
         },
         {
-            "cardImage": "images/services-07.jpg",
+            "cardImage": "services-07.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Business"
         },
         {
-            "cardImage": "images/services-01.jpg",
+            "cardImage": "services-01.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "UI/UX design"
         },
         {
-            "cardImage": "images/services-02.jpg",
+            "cardImage": "services-02.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "SEO"
         },
         {
-            "cardImage": "images/services-03.jpg",
+            "cardImage": "services-03.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Digiatal Marketing"
         },
         {
-            "cardImage": "images/services-04.jpg",
+            "cardImage": "services-04.jpg",
             "cardText": "Lorem ipsum dolor sit amet, consectetur adipisicing",
             "cardbtn": "Social Media"
         }
@@ -172,17 +172,17 @@
         {
             "bannerHeading":"Develop Strategies for your business",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../assets/images/banner-bg-01.jpg"
+            "bannerImage":"banner-bg-01.jpg"
         },
         {
             "bannerHeading":"HTML CSS Template with Bootstrap 5 Beta 1",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../assets/images/banner-bg-01.jpg"
+            "bannerImage":"banner-bg-01.jpg"
         },
         {
             "bannerHeading":"Cupidatat non proident, sunt in culpa qui officia",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../assets/images/banner-bg-01.jpg"
+            "bannerImage":"banner-bg-01.jpg"
         }
 
     ]
