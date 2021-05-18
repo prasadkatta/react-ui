@@ -19,13 +19,13 @@ function NavBar() {
                             <LinkContainer to="/react-ui">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Home</Nav.Link>
                             </LinkContainer>
-                            <LinkContainer to="/about">
+                            <LinkContainer to="/react-ui/about">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">About</Nav.Link>
                             </LinkContainer>
-                            <LinkContainer to="/trips">
+                            <LinkContainer to="/react-ui/trips">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Courses</Nav.Link>
                             </LinkContainer>
-                            <LinkContainer to="/contact">
+                            <LinkContainer to="/react-ui/contact">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Contact</Nav.Link>
                             </LinkContainer>
                         </Nav>
