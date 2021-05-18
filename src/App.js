@@ -19,10 +19,10 @@ function App() {
         <NavBar />
        
           <Switch>
-            <Route exact path="/react-ui" component={Home} />
-            <Route path="/react-ui/about" component={About} />
-            <Route path="/react-ui/Trips" component={Trips} />
-            <Route path="/react-ui/Contact" component={Contact} />
+            <Route exact path="/" component={Home} />
+            <Route path="/about" component={About} />
+            <Route path="/Trips" component={Trips} />
+            <Route path="/Contact" component={Contact} />
           </Switch>
            
         <Footer />
