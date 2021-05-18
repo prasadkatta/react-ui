@@ -16,7 +16,7 @@ function NavBar() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mx-auto">
-                            <LinkContainer to="/home">
+                            <LinkContainer to="/">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Home</Nav.Link>
                             </LinkContainer>
                             <LinkContainer to="/about">
