@@ -172,17 +172,17 @@
         {
             "bannerHeading":"Develop Strategies for your business",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../../images/banner-bg-01.jpg"
+            "bannerImage":"../assets/images/banner-bg-01.jpg"
         },
         {
             "bannerHeading":"HTML CSS Template with Bootstrap 5 Beta 1",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../../images/banner-bg-01.jpg"
+            "bannerImage":"../assets/images/banner-bg-01.jpg"
         },
         {
             "bannerHeading":"Cupidatat non proident, sunt in culpa qui officia",
             "bannerBody":" Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteirure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.",
-            "bannerImage":"../../images/banner-bg-01.jpg"
+            "bannerImage":"../assets/images/banner-bg-01.jpg"
         }
 
     ]
