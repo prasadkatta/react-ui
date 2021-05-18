@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-ui/static/css/main.b3bf79d0.chunk.css",
+    "main.js": "/react-ui/static/js/main.61cb49c9.chunk.js",
+    "main.js.map": "/react-ui/static/js/main.61cb49c9.chunk.js.map",
+    "runtime-main.js": "/react-ui/static/js/runtime-main.95306708.js",
+    "runtime-main.js.map": "/react-ui/static/js/runtime-main.95306708.js.map",
+    "static/css/2.56e1667a.chunk.css": "/react-ui/static/css/2.56e1667a.chunk.css",
+    "static/js/2.b0b5fa0f.chunk.js": "/react-ui/static/js/2.b0b5fa0f.chunk.js",
+    "static/js/2.b0b5fa0f.chunk.js.map": "/react-ui/static/js/2.b0b5fa0f.chunk.js.map",
+    "index.html": "/react-ui/index.html",
+    "static/css/2.56e1667a.chunk.css.map": "/react-ui/static/css/2.56e1667a.chunk.css.map",
+    "static/css/main.b3bf79d0.chunk.css.map": "/react-ui/static/css/main.b3bf79d0.chunk.css.map",
+    "static/js/2.b0b5fa0f.chunk.js.LICENSE.txt": "/react-ui/static/js/2.b0b5fa0f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-ui/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95306708.js",
+    "static/css/2.56e1667a.chunk.css",
+    "static/js/2.b0b5fa0f.chunk.js",
+    "static/css/main.b3bf79d0.chunk.css",
+    "static/js/main.61cb49c9.chunk.js"
+  ]
+}
