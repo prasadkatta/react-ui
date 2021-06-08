@@ -1,0 +1,32 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "Frist Name": "Krishna Prasad",
+        "Last Name":"Katta",
+        "Email":"Krishna@gmail.com",
+        "Mobile Number":"8099177174"
+      },
+      {
+        "id": 2,
+        "Frist Name": "Krishna Prasad",
+        "Last Name":"Katta",
+        "Email":"Krishna@gmail.com",
+        "Mobile Number":"8099177174"
+      },
+      {
+        "id": 3,
+        "Frist Name": "Krishna Prasad",
+        "Last Name":"Katta",
+        "Email":"Krishna@gmail.com",
+        "Mobile Number":"8099177174"
+      },
+      {
+        "id": 4,
+        "Frist Name": "Krishna Prasad",
+        "Last Name":"Katta",
+        "Email":"Krishna@gmail.com",
+        "Mobile Number":"8099177174"
+      }
+    ]
+  }

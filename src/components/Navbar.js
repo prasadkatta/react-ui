@@ -25,6 +25,9 @@ function NavBar() {
                             <LinkContainer to="/trips">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Courses</Nav.Link>
                             </LinkContainer>
+                            <LinkContainer to="/users">
+                                <Nav.Link className="btn-outline-primary rounded-pill px-3">Users</Nav.Link>
+                            </LinkContainer>
                             <LinkContainer to="/contact">
                                 <Nav.Link className="btn-outline-primary rounded-pill px-3">Contact</Nav.Link>
                             </LinkContainer>
